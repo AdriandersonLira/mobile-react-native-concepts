@@ -16,7 +16,7 @@
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=ce" alt="PRs welcome!" />
 
- <img src="https://img.shields.io/static/v1?label=JS&message=React-Native&color=61dbfb  &labelColor=ce" alt="TypeScript!" />
+ <img src="https://img.shields.io/static/v1?label=JS&message=React-Native&color=61dbfb&labelColor=ce" alt="TypeScript!" />
 
  <a href="https://github.com/AdriandersonLira">
     <img alt="Made by Adrianderson Lira" src="https://img.shields.io/badge/made%20by-Adrianderson-%2304D361">
